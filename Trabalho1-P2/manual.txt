@@ -1,0 +1,26 @@
+Cenário Modelado: Área de deserto
+
+Aplicar transformações : ( t )
+Selecionar proximo objeto : ( n )
+Selecionar objeto anerior : ( b )
+Não selecionar objeto : ( @ )
+Selecionar proximo objeto : ( n )
+Mostrar/Esconder origem do objeto selecionado : ( 0 )
+Apagar objeto selecionado: ( p )
+Apagar último objeto: ( P )
+Salvar objetos no arquivo : ( S )
+
+Ativar/Desativar inclusão de objetos : ( O )
+Adicionar objeto do tipo Cacto : ( w )
+Adicionar objeto do tipo Camelo : ( W )
+Adicionar objeto do tipo Pirâmide : ( e )
+Adicionar objeto do tipo Crânio de boi : ( E )
+Adicionar objeto do tipo Faraó : ( r )
+Adicionar objeto do tipo Árvore Morta : ( R )
+Adicionar objeto do tipo Esfinge : ( A )
+
+Mudar para câmera inicial : ( c )
+Cameras específicas : ( 1 ) ( 2 ) ( 3 ) ( 4 )
+
+Alternar luz pontual/distante : ( . )
+Movimentar luz : ( l )
